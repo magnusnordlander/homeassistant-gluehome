@@ -1,0 +1,11 @@
+{
+  "domain": "gluehome",
+  "name": "Glue Home Smart Lock",
+  "config_flow": true,
+  "documentation": "https://github.com/magnusnordlander/homeassistant-gluehome",
+  "requirements": [
+    "pygluehome==0.1.1"
+  ],
+  "dependencies": [],
+  "codeowners": []
+}
